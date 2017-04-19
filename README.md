@@ -1,5 +1,5 @@
 # Donate-Grupo-06
-[![license](https://img.shields.io/github/license/keslleylima/Donate--Grupo06.svg?style=plastic)](https://github.com/keslleylima/Donate--Grupo06/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/keslleylima/Donate---Grupo-06.svg)](https://github.com/keslleylima/Donate---Grupo-06/blob/master/LICENSE)
 
 Repositório destinado para os artefatos produzidos pelos trabalhos realizados na disciplina Manutenção de Software.
 
