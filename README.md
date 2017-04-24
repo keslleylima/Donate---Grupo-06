@@ -3,6 +3,9 @@
 
 Repositório destinado para os artefatos produzidos pelos trabalhos realizados na disciplina Manutenção de Software.
 
+# Processo Utilizado
+- [ Processo  Unificado de Construção]()
+
 # Documentos Disponíveis
   - [Plano Geral de Configuração](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/Ger%C3%AAncia/PGC-DONATE.docx)
   - [Plano Geral do Projeto](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/Ger%C3%AAncia/PGP-DONATE.docx)
