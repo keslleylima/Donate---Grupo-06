@@ -16,7 +16,7 @@ Repositório destinado para os artefatos produzidos pelos trabalhos realizados n
   - [Relatório de Monitoramento Semanal-2](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/Monitoramento/RMS02-DONATE.docx)
 # Integrantes 
   - [Keslley Lima da Silva - 201508737](https://github.com/keslleylima)
-  - [David Matheus Santos Sousa - 201503336 ](https://github.com/MSSDavid)
+  - [DavSSid Matheus Santos Sousa - 201503336 ](https://github.com/MSSDavid)
   - [João Pedro Salgado di Calvalcante Cunha - 201515572 ](https://github.com/joaopsalgado)
   - [João Vitor Rodrigues Santillo - 201403462 ](https://github.com/jvsantillo) 
   - [Victor Augusto Stillo Morais - 201503366 ](https://github.com/VictorStillo)
