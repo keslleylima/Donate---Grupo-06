@@ -7,7 +7,7 @@ Repositório destinado para os artefatos produzidos pelos trabalhos realizados n
 - [ Processo  Unificado de Construção](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/1.Processo/PUC-DONATE.pdf)
 - [Templates](https://github.com/keslleylima/Donate---Grupo-06/tree/master/1%C2%BA%20Etapa/1.Processo)
 # Documentos Disponíveis
-  - [Plano Geral de Configuração](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/Ger%C3%AAncia/PGC-DONATE.docx)
+  - [Plano Geral de Configuração](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/2.Projeto/1.2.2Ger%C3%AAncia/PGC-DONATE.pdf)
   - [Plano Geral do Projeto](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/Ger%C3%AAncia/PGP-DONATE.docx)
   - [Cronograma do Projeto](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/Ger%C3%AAncia/CGM-DONATE.docx)
   - [Documento de Requisistos do Sistema](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/Requisito/DRS-DONATE.docx)
