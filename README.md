@@ -10,7 +10,7 @@ Repositório destinado para os artefatos produzidos pelos trabalhos realizados n
   - [Plano Geral de Configuração](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/2.Projeto/1.2.2Ger%C3%AAncia/PGC-DONATE.pdf)
   - [Plano Geral do Projeto](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/2.Projeto/1.2.2Ger%C3%AAncia/PGP-DONATE.pdf)
   - [Cronograma do Projeto](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/2.Projeto/1.2.2Ger%C3%AAncia/CGM-DONATE.pdf)
-  - [Documento de Requisistos do Sistema](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/Requisito/DRS-DONATE.docx)
+  - [Documento de Requisistos do Sistema](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/2.Projeto/1.2.3Requisito/DRS-DONATE.pdf)
   - [Documento de Desigin do Sistema](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/2.Projeto/1.2.1Design/DDS-DONATE.pdf)
   - [Relatório de Monitoramento Semanal -1](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/Monitoramento/RMS01-DONATE.docx)
   - [Relatório de Monitoramento Semanal-2](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/Monitoramento/RMS02-DONATE.docx)
