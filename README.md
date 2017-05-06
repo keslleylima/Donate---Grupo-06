@@ -14,6 +14,9 @@ Repositório destinado para os artefatos produzidos pelos trabalhos realizados n
   - [Documento de Desigin do Sistema](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/Design/DDS-DONATE.docx)
   - [Relatório de Monitoramento Semanal -1](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/Monitoramento/RMS01-DONATE.docx)
   - [Relatório de Monitoramento Semanal-2](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/Monitoramento/RMS02-DONATE.docx)
+   - [Relatório de Monitoramento Semanal-3](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/2.Projeto/1.2.4Monitoramento/RMS03-DONATE.docx)
+   - [Relatório de Monitoramento Semanal-4](https://github.com/keslleylima/Donate---Grupo-06/blob/master/1%C2%BA%20Etapa/2.Projeto/1.2.4Monitoramento/RMS04-DONATE.docx)
+   - [Templates](https://github.com/keslleylima/Donate---Grupo-06/tree/master/1%C2%BA%20Etapa/1.Processo)
 # Integrantes 
   - [Keslley Lima da Silva - 201508737](https://github.com/keslleylima)
   - [David Matheus Santos Sousa - 201503336 ](https://github.com/MSSDavid)
